@@ -29,10 +29,10 @@ public class Main
 	    } 
 	    
 	    for (int a=0;a<n ;a++){
-	        for (int b=0;b<n ;b++){
-	            for (int c=0;c<n ;c++){
-	                for (int d=0;d<n ;d++){
-	                    for (int y=0;y<n ;y++){
+	        for (int b=0;b<l;b++){
+	            for (int c=0;c<m ;c++){
+	                for (int d=0;d<o;d++){
+	                    for (int y=0;y<f ;y++){
 	                        System.out.print( arr[a][b][c][d][y] +" ");
 	                        System.out.println();
 	        
